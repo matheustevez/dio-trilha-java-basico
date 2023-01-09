@@ -4,7 +4,7 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Olá! Seja bem vindo ao Banco DIO!");
+        System.out.println("Seja bem vindo ao Banco DIO!");
         System.out.print("Antes de começarmos, informe o seu nome: ");
         String nomeCliente = scan.nextLine();
         System.out.print("Por favor, informe o número da agência: ");
